@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Agrilease_hub/static/css/main.1dd88d4e.css",
+    "main.js": "/Agrilease_hub/static/js/main.4ed15c3a.js",
+    "static/js/453.0d577125.chunk.js": "/Agrilease_hub/static/js/453.0d577125.chunk.js",
+    "static/media/video.mp4": "/Agrilease_hub/static/media/video.d100ac5aae34af1bc30f.mp4",
+    "static/media/image1.png": "/Agrilease_hub/static/media/image1.8c9a8c92cc95045ae090.png",
+    "static/media/image2.png": "/Agrilease_hub/static/media/image2.30cc5f5f1d3084cf10ef.png",
+    "static/media/image3.png": "/Agrilease_hub/static/media/image3.4048b169da7c4ee68585.png",
+    "static/media/image4.png": "/Agrilease_hub/static/media/image4.fbe0bda7e0c3e2e3ad04.png",
+    "static/media/github.svg": "/Agrilease_hub/static/media/github.077a3fdbee9cbcbfd1a2d29bb167cece.svg",
+    "static/media/gmail.svg": "/Agrilease_hub/static/media/gmail.d0fabe4f8180d4a993cac1edfb6dc61b.svg",
+    "static/media/linkedin.svg": "/Agrilease_hub/static/media/linkedin.adc78d127b85d171a2699319234c6c86.svg",
+    "index.html": "/Agrilease_hub/index.html",
+    "main.1dd88d4e.css.map": "/Agrilease_hub/static/css/main.1dd88d4e.css.map",
+    "main.4ed15c3a.js.map": "/Agrilease_hub/static/js/main.4ed15c3a.js.map",
+    "453.0d577125.chunk.js.map": "/Agrilease_hub/static/js/453.0d577125.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd88d4e.css",
+    "static/js/main.4ed15c3a.js"
+  ]
+}
